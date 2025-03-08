@@ -1,4 +1,9 @@
 # Movie Recommendation System
+<hr>
+
+Authors: Nevin Selby, Vijayram Patel
+
+  <hr>
 
 ## Overview
 This project implements a content-based movie recommendation system that suggests similar movies based on various movie attributes including cast, crew, keywords, genres, overview, and spoken languages. The system uses natural language processing techniques and cosine similarity to find movies that share similar characteristics.
@@ -115,7 +120,3 @@ The system requires two CSV files:
 - Adding a user interface would make the system more accessible
 - Implementing collaborative filtering alongside content-based filtering could improve recommendations
 - Considering the recency of movies could provide more relevant recommendations
-
-
-## Authors
-Nevin Selby | Vijayram Patel
