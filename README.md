@@ -115,3 +115,7 @@ The system requires two CSV files:
 - Adding a user interface would make the system more accessible
 - Implementing collaborative filtering alongside content-based filtering could improve recommendations
 - Considering the recency of movies could provide more relevant recommendations
+
+
+## Authors
+Nevin Selby | Vijayram Patel
